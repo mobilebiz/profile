@@ -41,5 +41,7 @@ WindowsMe ネットワーク構築入門（角川出版）
 
 ## 写真
 
-![JPEG](images/RedJacket.jpg)
-![PNG](images/RedJacket.png)
+![JPEG](images/White_2.jpg)
+![PNG](images/White_2.png)
+![JPEG](images/Vonage_2.jpg)
+![PNG](images/Vonage_2.png)
