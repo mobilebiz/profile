@@ -6,7 +6,7 @@
 ## 基本情報
 
 - 名前：高橋克己（たかはしかつみ）
-- 所属：株式会社 KDDI ウェブコミュニケーションズ Twilio 本部
+- 所属：株式会社 KDDI ウェブコミュニケーションズ コミュニケーションDX本部
 - 肩書：エバンジェリスト
 - SNS：[Facebook](https://facebook.com/katsumi.takahashi) [Twitter](https://twitter.com/_katsumi) [GitHub](https://github.com/mobilebiz)
 
