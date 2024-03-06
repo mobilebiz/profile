@@ -8,17 +8,20 @@
 - 名前：高橋克己（たかはしかつみ）
 - 所属：株式会社 KDDI ウェブコミュニケーションズ コミュニケーションDX本部
 - 肩書：エバンジェリスト
+- 所属：グローバル・インターネット・ジャパン株式会社
+- 肩書：代表取締役
 - SNS：[Facebook](https://facebook.com/katsumi.takahashi) [Twitter](https://twitter.com/_katsumi) [GitHub](https://github.com/mobilebiz)
 
 ## プロフィール
 
-コミュニケーション API「Twilio」エバンジェリスト。フルスタックエンジニア。  
-1994 年に独立後、通信事業者向け企業向け研修や受託開発などを手掛ける。  
+CPaaS エバンジェリスト。フルスタックエンジニア。  
+1994 年に独立後、通信事業者向け企業向け研修や受託開発などを数多く手掛ける。  
+2014 年 7 月に、留守番電話サービス「[TRANSREC](https://www.transrec.net)」をリリース。  
 2015 年 4 月に KDDI ウェブコミュニケーションズ主催の Smart Communication Award 2015 において、「自動電話リレーサービス」が最優秀賞を受賞。同年、SF で開催された Twilio 社のイベント SIGNAL2015 で日本人初の Hole of DOer を獲得。  
 2016 年 2 月より、Twilio エバンジェリストとして、年間 100 回以上の登壇や、ハッカソンイベントの開催・サポート、記事の執筆などを行うとともに、自らもプロダクトの開発を行う。  
+2023 年 5 月に、Twilio のリセール事業終了に伴い、Twilio だけでなく Vonage などの CPaaS エバンジェリストに。
 独特の語り口調の講演スタイルから、「赤い芸人」と呼ばれることもある。  
 趣味は料理。  
-[Twilio](https://cloudapi.kddi-web.com/)
 
 ## 資格
 
